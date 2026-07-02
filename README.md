@@ -36,3 +36,4 @@ podman run -p 5000:5000 system-monitor
 
 ## Docker Hub
 https://hub.docker.com/r/aurora3243/system-monitor
+# Updated
